@@ -1,0 +1,25 @@
+.continue-shopping{
+    /* width: 200px; */
+    /* height: 100px; */
+}
+.main-cart-section{
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    margin-left: 200px;
+    margin-bottom: 200px;
+
+}
+.cart-items-container{
+    /* display: flex; */
+    width: 800px;
+    height: 600px;
+    align-items: center;
+    background-color: aqua;
+}
+.items-info{
+    display: flex;
+    width: 600px;
+    height: 100px;
+    background-color: burlywood;
+}

@@ -1,0 +1,70 @@
+.App {
+  /* text-align: center; */
+}
+
+.M{
+width: 60%;
+align-items: center;
+padding: 50px;
+margin: 20px 20px auto;
+margin-left: 20%;
+background-color: turquoise;
+border-radius: 20px;
+box-shadow: 7px 5px 10px  red;
+border-collapse: collapse;
+
+}
+#P{
+  text-align: center;
+  width: 260px;
+  margin: 5px;
+  height: 30px;
+  color: rgb(255, 204, 0);
+  border-radius: 20px;
+  border: 2px solid red;
+  
+}
+.Q{
+  border-radius: 10px;
+  width: 60px;
+  height: 30px;
+  background-color: gold;
+  cursor: pointer;
+  border:2px solid orange;
+  
+}
+.B{
+  color: rgb(255, 0, 179);
+  border-radius: 22px;
+  margin-left: 100px;
+}
+.A{
+  text-align: right;
+  width: 500px;
+  height: 500px;
+  align-items: right;
+}
+.k{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+table {
+  border: 2px solid forestgreen;
+  width: 600px;
+  height: 200px;
+}
+th {
+  border-bottom:  1px solid black;
+}
+td {
+  text-align: center;
+}
+
+
+
+
+
+
